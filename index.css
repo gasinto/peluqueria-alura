@@ -1,0 +1,31 @@
+body{
+    background-color: #FFFFFF;
+}
+
+#banner{
+    width: 100%;
+}
+
+.principal{
+    background: #CCCCCC;
+}
+
+p{
+    text-align: center;
+}
+
+em strong{
+    color: red;
+}
+
+.diferenciales{
+    background: #FFFFFF;
+}
+
+h2{
+    text-align: center;
+}
+
+.items{
+    font-style: italic;
+}
