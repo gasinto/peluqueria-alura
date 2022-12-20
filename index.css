@@ -29,3 +29,15 @@ h2{
 .items{
     font-style: italic;
 }
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imgDiferencial{
+    width: 50%;
+
+}
