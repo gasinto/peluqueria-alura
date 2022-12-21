@@ -1,5 +1,5 @@
-body{
-    background-color: #FFFFFF;
+.titulo-principal{
+    padding-left: 30px;
 }
 
 #banner{
@@ -8,6 +8,10 @@ body{
 
 .principal{
     background: #CCCCCC;
+}
+
+.titulo-centralizado{
+    text-align: center;
 }
 
 p{
@@ -22,9 +26,6 @@ em strong{
     background: #FFFFFF;
 }
 
-h2{
-    text-align: center;
-}
 
 .items{
     font-style: italic;
@@ -39,5 +40,5 @@ ul{
 
 .imgDiferencial{
     width: 50%;
-
+    padding: 30px;
 }
